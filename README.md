@@ -1,4 +1,3 @@
-IRON DAEMON Banner](banner.png)
 # IRON DAEMON
 
 ![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
